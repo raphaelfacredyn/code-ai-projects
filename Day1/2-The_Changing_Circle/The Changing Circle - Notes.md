@@ -23,7 +23,7 @@
 
 #### background()
 
-* clears the previous frames
+* clears the screen
 * and sets the background color to the color of your choice
 * background(red, green, blue), will be referred to as RGB
 * same color system as fill

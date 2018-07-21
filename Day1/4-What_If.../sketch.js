@@ -1,9 +1,11 @@
 function setup() {
-  createCanvas(1440, 900)
+    createCanvas(500, 500)
 }
 
 function draw() {
-  fill(mouseX / 3, (mouseY + mouseX) / 6, mouseY / 3)
-  noStroke()
-  ellipse(mouseX / 6, mouseY, mouseY + mouseX / 5, mouseY + mouseX / 5)
+    if (mouseX < width / 2) {
+        background(0, 255, 0)
+    } else {
+        background(0, 0, 255)
+    }
 }

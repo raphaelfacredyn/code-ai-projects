@@ -1,11 +1,11 @@
 function setup() {
-  createCanvas(500, 500)
+    createCanvas(500, 500)
 }
 
 function draw() {
-  background(130, 70, 255)
-  fill(mouseX / 2, (mouseY + mouseX) / 4, mouseY / 2)
-  ellipse(mouseX, mouseY, mouseX / 3, mouseY / 3)
+    background(130, 70, 255)
+    fill(mouseX / 2, (mouseY + mouseX) / 4, mouseY / 2)
+    ellipse(mouseX, mouseY, mouseX / 3, mouseY / 3)
 }
 
 // // ----Challenge!-----

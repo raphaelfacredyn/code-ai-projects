@@ -17,7 +17,7 @@
 
 * make sure people know what a painting canvas is
 * this is the same thing, if we want to draw, we need a canvas
-* this is a command that takes in input
+* this is a command that takes in input (explain how to give command input)
 * createCanvas(width, height) - all units are in pixels
 
 #### ellipse()

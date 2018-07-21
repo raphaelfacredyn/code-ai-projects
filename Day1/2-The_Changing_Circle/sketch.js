@@ -8,7 +8,7 @@ function draw() {
   ellipse(mouseX, mouseY, mouseX / 3, mouseY / 3)
 }
 
-// // ----Chalenge!-----
+// // ----Challenge!-----
 // function setup() {
 //   createCanvas(500, 500)
 // }

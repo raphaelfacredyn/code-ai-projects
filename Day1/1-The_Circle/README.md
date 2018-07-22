@@ -1,4 +1,4 @@
-# The Circle - Teacher Notes
+# The Circle - Notes
 
 #### What does function setup do?
 
